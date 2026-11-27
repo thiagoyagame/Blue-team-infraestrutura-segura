@@ -33,4 +33,4 @@ O relatório completo com topologia, arquivos de configuração, comandos de val
 ### 👨‍💻 Autor
 **Thiago de Morais Marinho dos Santos**  
 * Bacharel em Ciência da Computação (Formação em Dezembro/2026) | Segurança da Informação (Blue Team) & Desenvolvimento  
-* [LinkedIn](https://linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/thiagoyagame)
+* [LinkedIn](https://linkedin.com/in/thiago-marinho-95654998/) | [GitHub](https://github.com/thiagoyagame)
